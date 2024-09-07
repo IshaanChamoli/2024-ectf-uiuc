@@ -1,3 +1,5 @@
+As the UIUC team, we placed 2nd internationally at the event.
+
 # UIUC MISC Design for MITRE eCTF 2024
 
 This repository contain's the University of Illinois Urbana-Champaign's design for the MITRE eCTF 2024 competition (embedded CTF). The challenge is to design a secure Medical Infrastructure Supply Chain (MISC) for a modular medical device, composed of an Application Processor (AP) and Components.
