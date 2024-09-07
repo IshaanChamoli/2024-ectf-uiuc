@@ -1,4 +1,4 @@
-As the UIUC team, we placed 2nd internationally at the event.
+**As the UIUC team, we placed 2nd internationally at the event.**
 
 # UIUC MISC Design for MITRE eCTF 2024
 
